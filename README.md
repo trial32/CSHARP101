@@ -1,0 +1,3 @@
+## C#101 DERSLERİ
+
+[Patika.dev](https://www.patika.dev/tr) C#101 derslerindeki ödev/çalışmaları içerir...
