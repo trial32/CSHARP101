@@ -3,11 +3,11 @@
 
 Worker worker1= new Worker("Cagan","Deniz","IT");
 
-Console.WriteLine("Number of workers: "+ Worker.numberOfWorkers);
+Console.WriteLine("Number of workers: "+ Worker.NumberOfWorkers);
 
 Worker worker2= new Worker("Ozen","Deniz","IT");
 
-Console.WriteLine("Number of workers: "+ Worker.numberOfWorkers);
+Console.WriteLine("Number of workers: "+ Worker.NumberOfWorkers);
 
 
 Console.WriteLine("5 + 7= "+ Equations.Add(5,7));
@@ -15,11 +15,15 @@ Console.WriteLine("5 + 7= "+ Equations.Add(5,7));
 
 
 class Worker{
-    public static int numberOfWorkers;
+    private static int numberOfWorkers;
     private string name;
     private string lastName;
 
     private string deparment;
+
+    static Worker(){
+        numberOfWorkers=0;
+    }
 
     public Worker(string name, string lastName, string deparment)
     {
@@ -27,7 +31,9 @@ class Worker{
         this.lastName = lastName;
         this.deparment = deparment;
         numberOfWorkers++;
-    } 
+    }
+
+    public static int NumberOfWorkers { get => numberOfWorkers;} //To be able to reach it through main code
 }
 
   static class Equations{
