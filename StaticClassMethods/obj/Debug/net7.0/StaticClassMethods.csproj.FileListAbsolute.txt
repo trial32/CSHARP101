@@ -1,0 +1,15 @@
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\bin\Debug\net7.0\StaticClassMethods.exe
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\bin\Debug\net7.0\StaticClassMethods.deps.json
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\bin\Debug\net7.0\StaticClassMethods.runtimeconfig.json
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\bin\Debug\net7.0\StaticClassMethods.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\bin\Debug\net7.0\StaticClassMethods.pdb
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.csproj.AssemblyReference.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.AssemblyInfoInputs.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.AssemblyInfo.cs
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\refint\StaticClassMethods.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.pdb
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\StaticClassMethods.genruntimeconfig.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\StaticClassMethods\obj\Debug\net7.0\ref\StaticClassMethods.dll
