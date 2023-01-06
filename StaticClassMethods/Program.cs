@@ -9,9 +9,9 @@ Worker worker2= new Worker("Ozen","Deniz","IT");
 
 Console.WriteLine("Number of workers: "+ Worker.numberOfWorkers);
 
-Equations islem= new Equations();
 
-Console.WriteLine("Toplama işlemi sonucu: "+ Equations.Add(5,7));
+Console.WriteLine("5 + 7= "+ Equations.Add(5,7));
+
 
 
 class Worker{
@@ -30,7 +30,7 @@ class Worker{
     } 
 }
 
-  class Equations{
+  static class Equations{
 
     public static int Add (int sayi1, int sayi2){
 
