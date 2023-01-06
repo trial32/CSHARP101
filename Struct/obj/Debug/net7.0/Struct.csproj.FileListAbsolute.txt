@@ -1,0 +1,15 @@
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\bin\Debug\net7.0\Struct.exe
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\bin\Debug\net7.0\Struct.deps.json
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\bin\Debug\net7.0\Struct.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\bin\Debug\net7.0\Struct.pdb
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.csproj.AssemblyReference.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\refint\Struct.dll
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.pdb
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+C:\Users\ozend\Documents\C# PROGRAMLAMA\PatikaDersleri\CSHARP101\Struct\obj\Debug\net7.0\ref\Struct.dll
